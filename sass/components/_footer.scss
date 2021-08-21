@@ -1,11 +1,12 @@
 //FOOTER
 .footer {
   background-color: $background-hero-color;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .footer__container {
   display: flex;
-  padding-top: 60px;
-  padding-bottom: 60px;
+
   align-items: baseline;
 }
 .footer__logo {
@@ -64,7 +65,7 @@
 
 .social__link--color {
   fill: $secondary-text-color;
-  background-color: $footer-siciallink-color;
+  background-color: $footer-sociallink-color;
 }
 .footer__form-container {
   margin-left: 93px;
